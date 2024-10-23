@@ -1,0 +1,1 @@
+python read.py --image_path path/to/image.png --FeatureExtraction HRNet --SequenceModeling DBiLSTM --Prediction CTC  --saved_model best_norm_ED.pth
